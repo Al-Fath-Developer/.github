@@ -1,6 +1,8 @@
 # Al-Fath Developer
 
-![Al-Fath Developer Logo](https://avatars.githubusercontent.com/u/142922036?s=200&v=4)
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/142922036?s=200&v=4" />
+</p>
 
 Welcome to Al-Fath Developer, a community within Telkom University dedicated to empowering Al-Fath friends who aspire to develop themselves as skilled developers. We believe in the power of collaborative learning, problem-solving, and continuous improvement.
 
