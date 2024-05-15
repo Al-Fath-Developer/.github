@@ -19,7 +19,7 @@ Al-Fath is a Muslim religious organization at Telkom University, and Al-Fath Dev
 ## 🌐 Connect with Us
 
 - **Website:** [LDK Al-Fath](https://ldkalfath.orgs.telkomuniversity.ac.id/about/)
-- **Instagram:** [@alfath_telu](https://www.instagram.com/alfath_telu/)
+- **Instagram:** [@alfath_telu](https://www.instagram.com/alfathtelu/)
 
 ## 📚 How to Get Involved
 
